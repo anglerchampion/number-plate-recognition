@@ -6,9 +6,9 @@ Number plate recognition is an essential task in many modern-day applications, s
 # Project Group Members
 This project was completed as a collaborative effort by the following team members:
 
--	Y KASHYAP MADHAV  
+- KASHYAP MADHAV Y 
 -	B V SAI CHETAN REDDY   
--   K VISHNU VARDHAN      
+- K VISHNU VARDHAN      
                           
 
 # 3. Objectives
